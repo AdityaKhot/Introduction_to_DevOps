@@ -9,10 +9,10 @@ Welcome to the DevOps Bootcamp Notes repository! This compilation of notes is cr
 - Introduction to Linux OS and Commands
 - BAsics of Computer Networks
 - Cloud Platforms (e.g. Amazon Web Services)
-- Continuous Integration and Continuous Deployment (CI/CD)
+- Continuous Integration and Continuous Deployment (CI/CD with Jenkins)
 - Configuration Management (e.g., Ansible, Puppet)
 - Containerization and Orchestration (e.g., Docker, Kubernetes)
-- Infrastructure as Code (IaC)
+- Infrastructure as Code (IaC with Terraform)
 - Monitoring and Logging
 - DevOps Culture and Best Practices
 
