@@ -2,4 +2,7 @@ Introduction to My Project
 
 My project is a Netflix Miniproject.
 
+Tools used : Docker, AWS, Kubernetes, Git.
 Contributors : Shrushthi, Swati
+
+Project Submission : 30 Dec
