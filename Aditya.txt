@@ -6,3 +6,5 @@ Tools used : Docker, AWS, Kubernetes, Git.
 Contributors : Shrushthi, Swati
 
 Project Submission : 30 Dec
+
+Started on 2nd Nov
